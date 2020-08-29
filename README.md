@@ -5,8 +5,7 @@ An Automation script to automatically join a scheduled google-meet meeting at a 
 
 
 ### Install the Required Softwares and Packages
-1. Python 3.5 and above
-> To install Python ([click here](https://www.python.org/downloads/))
+1. [Install Python](https://www.python.org/downloads/) 3.5 and above
 2. Python pyautogui, webbrowser, time, datetime packages
 ```python
 pip install pyautogui
