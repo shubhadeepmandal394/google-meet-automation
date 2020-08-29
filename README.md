@@ -21,7 +21,7 @@ pip install datetime
 - Now locate **automeet.py** and open it using any text editors like Sublime Text / Brackets / Notepad ++ or IDEs like PyCharm.
 - You need to make 3 major changes in order to personalise the script, the changes are as follows ..
 - Go to line 12 `if now.strftime("%H%M") == "time":` and replace **time** with your Meeting Start Time.
-- Go to line no 14 `webbrowser.get("path").open_new("link")` and replace **path** with the Google Chrome Browser's path in your pc and **link** with your Google-Meet Meeting Link.
+- Go to line no 14 `webbrowser.get("path").open_new("link")` and replace **C:/Program Files (x86)/Google/Chrome/Application/chrome.exe** with the Google Chrome Browser's path of your pc and **link** with your Google-Meet Meeting Link.
 - If you are using IDEs like PyCharm then run the program there itself, else follow the following steps.
 - After doing so, open up command prompt in the same folder 
 	HELP : go to the address bar and type in **cmd** and press enter, command prompt oppens up in the same folder
