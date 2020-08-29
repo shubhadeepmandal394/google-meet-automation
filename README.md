@@ -1,7 +1,7 @@
 # **Google Meet Automation**
 An Automation script to automatically join a scheduled google-meet meeting at a specific time without manual labour. This one's for all the lazy people like me who don't like waking up early morning for online classes.
 
->**NB** : The automation script is made according to my intrests and needs, in order to satisfy your reqirements you mignt need to make changes to the code, like the Exact Pointer Locations,etc. To help you with the same I have attached few links in the References section of the README.md. Users with screen ratio 1920 x 1080 are free to run the script without the changes.
+>**NB** : The automation script is made according to my intrests and needs, in order to satisfy your reqirements you mignt need to make changes to the code, like the Exact Pointer Locations,etc. To help you with the same I have attached few links in the References section of the README.md. However, users with screen ratio 1920 x 1080 are free to run the script without the changes.
 
 
 ### Install the Required Softwares and Packages
