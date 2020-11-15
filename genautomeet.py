@@ -9,9 +9,9 @@ from datetime import datetime
 while True:
     now = datetime.now()  # check the current system time
 
-    if now.strftime("%H%M%S") == "time":  # check if the current system time matches your meeting time
+    if now.strftime("%H%M%S") == "124500":  # check if the current system time matches your meeting time
         webbrowser.get("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s").open_new(
-            "link")  # accessing the web browser and prompting it to navigate you to the mentioned URL
+            "https://meet.google.com/pnz-hyap-pxb")  # accessing the web browser and prompting it to navigate you to the mentioned URL
 
         time.sleep(5)  # making a delay of 5 seconds
         pyautogui.hotkey('ctrl', 'd')  # Press the Ctrl-D hotkey combination.
